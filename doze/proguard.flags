@@ -1,0 +1,3 @@
+-keep class com.zephyr.doze.tomato.* {
+  *;
+}
